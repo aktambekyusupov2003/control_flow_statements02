@@ -15,5 +15,4 @@ Returns:
     str: return answer. 
 */
 
-void main() {
-}
+void main() {}
